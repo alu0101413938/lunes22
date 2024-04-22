@@ -1,0 +1,6 @@
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+
+title: [Practica 10]
+description: [El propósito de esta práctica es diseñar e implementar un sistema **cliente-servidor** que sirva como base para la gestión de inventario de cartas de Magic: The Gathering. El cliente enviará peticiones al servidor relacionadas con la gestión de inventario, como la adición, eliminación o modificación de cartas, y el servidor se encargará de procesar estas solicitudes de manera eficiente y segura.]
